@@ -5978,6 +5978,20 @@
    "url": "https://consumer.fda.gov.tw//Food/InfoHealthFoodDetail.aspx?nodeID=162&id=1521"
  },
  {
+   "id": "衛部健食字第A00430號",
+   "category": "衛署健食字",
+   "cname": "勁亮神采錠",
+   "date": "20220830",
+   "applicant": "臺灣威瑪舒培有限公司",
+   "status": "核可",
+   "ingredient": "紅景天苷(Salidroside)：1.44~2.16 mg/g",
+   "benefit": "抗疲勞功能",
+   "claim": "經動物實驗結果：攝取本產品有助於延緩運動後疲勞的發生及促進運動後疲勞消除。",
+   "warn": "懷孕、15歲以下小孩或授乳期間婦女，請勿食用。",
+   "notice": "1. 請徵詢醫師、藥師或營養師有關食用本品之意見；均衡的飲食及適當的運動為身體健康之基礎。 2. 本產品非藥品，供保健用，罹病者仍需就醫。 3. 請依建議攝取量食用，勿過量 4. 一日請勿超過3錠，多食無益。 5. 本產品含有乳糖，有乳糖不耐症者，食用前請先洽詢醫師或營養師意見。",
+   "url": "https://consumer.fda.gov.tw//Food/InfoHealthFoodDetail.aspx?nodeID=162&id=1523"
+ },
+ {
    "id": "衛署健食規字第000001號",
    "category": "衛署健食規字",
    "cname": "濟生活力深海魚油膠囊",
