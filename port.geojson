@@ -84,6 +84,7 @@
 { "type": "Feature", "properties": { "Name": "羅厝漁港", "description": "金門縣烈嶼鄉 ", "IDX": "79", "KIND": "第二類", "COUNTY": "金門縣", "XPOS": "118.2584", "YPOS": "24.42332" }, "geometry": { "type": "Point", "coordinates": [ 118.2584, 24.42332 ] } },
 { "type": "Feature", "properties": { "Name": "新湖漁港", "description": "漁港新湖", "IDX": "80", "KIND": "第二類", "COUNTY": "金門縣", "XPOS": "118.4103", "YPOS": "24.43049" }, "geometry": { "type": "Point", "coordinates": [ 118.4103, 24.43049 ] } },
 { "type": "Feature", "properties": { "Name": "復國墩漁港", "description": "金門縣金湖鎮", "IDX": "81", "KIND": "第二類", "COUNTY": "金門縣", "XPOS": "118.4729", "YPOS": "24.44751" }, "geometry": { "type": "Point", "coordinates": [ 118.4729, 24.44751 ] } },
-{ "type": "Feature", "properties": { "Name": "高雄港商港", "description": "高雄市前鎮區", "IDX": "42", "KIND": "二港口北堤510公尺", "COUNTY": "高雄市", "XPOS": "120.3027", "YPOS": "22.55355" }, "geometry": { "type": "Point", "coordinates": [ 120.3027, 22.55355 ] } }
+{ "type": "Feature", "properties": { "Name": "高雄港商港", "description": "高雄市前鎮區", "IDX": "42", "KIND": "二港口北堤510公尺", "COUNTY": "高雄市", "XPOS": "120.3027", "YPOS": "22.55355" }, "geometry": { "type": "Point", "coordinates": [ 120.3027, 22.55355 ] } },
+{ "type": "Feature", "properties": { "Name": "高雄港商港", "description": "高雄市前鎮區", "IDX": "42", "KIND": "第一港口北防波堤垂釣區450公尺範圍", "COUNTY": "高雄市", "XPOS": "120.2601", "YPOS": "22.62248" }, "geometry": { "type": "Point", "coordinates": [ 120.2601, 22.62248 ] } }
 ]
 }
